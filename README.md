@@ -28,7 +28,7 @@ Here are some ideas to get you started:
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=4gu1rr3&theme=onedark&hide_border=true"/>
     </a>
 </div>
-
+<hr>
 ![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/8bc3a08d-7cb4-459f-a895-076538ae26a2)
 
 <h4>✨ How to reach me: yasmin.cardozo@edu.pucrs.br</h4>
