@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ##
 - 📚 Currently studying Computer Science at PUCRS
 ###
-
+![My Remote Image](https://www.dropbox.com/scl/fi/m4szjzarxtzaqb3s235ii/imagem_2023-09-03_223855568.png?rlkey=jilxwxymhnaifupss6czjvqnk&dl=0)
 ###
 <div>
  <a href="https://github.com/4gu1rr3">
