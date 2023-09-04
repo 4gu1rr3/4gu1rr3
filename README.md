@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 ##
 - 📚 Currently studying Computer Science at PUCRS
-###
-![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/12910c11-067a-41a6-8381-6e245105f304)
-###
 <div>
  <a href="https://github.com/4gu1rr3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4gu1rr3&show_icons=true&theme=tokyonight">
@@ -26,3 +23,6 @@ Here are some ideas to get you started:
 
 ###
 - 💌 How to reach me: yasmin.cardozo@edu.pucrs.br
+
+###
+![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/12910c11-067a-41a6-8381-6e245105f304)
