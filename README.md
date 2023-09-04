@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 <h1>✨ Hi there, i'm Yasmin Aguirre ✨</h1>
 
+<img align="right" src="https://github.com/4gu1rr3/4gu1rr3/assets/50997939/ea4cce5f-46ab-46c9-8ad5-d4246e032788" alt="Programmation" width="300"/>
+
 <h3> • Computer science student at PUCRS<h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=crduqbolsz4nzehkogy4u5hn2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -30,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
-![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/8bc3a08d-7cb4-459f-a895-076538ae26a2)
+![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/3c18723e-dab5-44aa-ae46-72e48aa14948)
 
 <h3>✨ How to reach me: yasmin.cardozo@edu.pucrs.br</h3>
 
