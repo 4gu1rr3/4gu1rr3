@@ -29,7 +29,8 @@ Here are some ideas to get you started:
     </a>
 </div>
 ###
-![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/e02ffa26-049a-47db-b5e6-4e98428868e8)
+
+![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/8bc3a08d-7cb4-459f-a895-076538ae26a2)
 
 <h4>✨ How to reach me: yasmin.cardozo@edu.pucrs.br</h4>
 
