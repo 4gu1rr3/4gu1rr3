@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <div>
 <h3> • Computer science student at PUCRS<h3>
+    
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=crduqbolsz4nzehkogy4u5hn2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img align="right" src="https://github.com/4gu1rr3/4gu1rr3/assets/50997939/cb87018b-5c09-488f-bd64-99fdf2e607c3" alt="Programmation" width="300"/>
 </div>
