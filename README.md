@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 - 💌 How to reach me: yasmin.cardozo@edu.pucrs.br
 
 ###
-![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/12910c11-067a-41a6-8381-6e245105f304)
+![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/e02ffa26-049a-47db-b5e6-4e98428868e8)
+
