@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 ###
 - 📚 Currently studying Computer Science at PUCRS
 ###
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/crduqbolsz4nzehkogy4u5hn2)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=crduqbolsz4nzehkogy4u5hn2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ###
 <div>
