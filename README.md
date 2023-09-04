@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋✨
 
-##
+###
 - 📚 Currently studying Computer Science at PUCRS
+###
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/crduqbolsz4nzehkogy4u5hn2)
+<br/>
+###
 <div>
  <a href="https://github.com/4gu1rr3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4gu1rr3&show_icons=true&theme=tokyonight">
