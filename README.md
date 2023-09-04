@@ -20,9 +20,14 @@ Here are some ideas to get you started:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=crduqbolsz4nzehkogy4u5hn2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ###
+<a><h2>Stats</h2></a>
 <div>
- <a href="https://github.com/4gu1rr3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4gu1rr3&show_icons=true&theme=tokyonight">
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=4gu1rr3&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=4gu1rr3&theme=onedark&hide_border=true"/>
+    </a>
 </div>
 
 ###
