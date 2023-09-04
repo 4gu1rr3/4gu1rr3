@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 </div>
 ###
 ![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/e02ffa26-049a-47db-b5e6-4e98428868e8)
-###
-- <h2>✨ How to reach me: yasmin.cardozo@edu.pucrs.br</h2>
+
+<h4>✨ How to reach me: yasmin.cardozo@edu.pucrs.br</h4>
 
