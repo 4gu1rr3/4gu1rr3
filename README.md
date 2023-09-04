@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <h1>Hi there 👋✨</h1>
-<br/>
 ###
 - 📚 Currently studying Computer Science at PUCRS
 ###
