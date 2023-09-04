@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1>✨ Hi there, i'm Yasmin Aguirre ✨</h1>
 
-<h3> • Computer science studant at PUCRS<h3>
+<h3> • Computer science student at PUCRS<h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=crduqbolsz4nzehkogy4u5hn2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
