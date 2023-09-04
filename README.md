@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ##
 - 📚 Currently studying Computer Science at PUCRS
 ###
-![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/553b1e89-5d62-445f-ba41-fe458be58f0f)
+![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/12910c11-067a-41a6-8381-6e245105f304)
 ###
 <div>
  <a href="https://github.com/4gu1rr3">
