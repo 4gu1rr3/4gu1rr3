@@ -13,16 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>✨ Hi there, i'm Yasmin Aguirre ✨</h1>
+
 <div>
-    
-<img align="right" src="https://github.com/4gu1rr3/4gu1rr3/assets/50997939/cb87018b-5c09-488f-bd64-99fdf2e607c3" alt="Programmation" width="300"/>
-
 <h3> • Computer science student at PUCRS<h3>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=crduqbolsz4nzehkogy4u5hn2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img align="right" src="https://github.com/4gu1rr3/4gu1rr3/assets/50997939/cb87018b-5c09-488f-bd64-99fdf2e607c3" alt="Programmation" width="300"/>
 </div>
+    
 <br/>
-<a><h2>Stats</h2></a>
+
+<a>
+<h2>Stats</h2>
+</a>
+
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=4gu1rr3&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
