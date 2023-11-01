@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <div>
     <a href="https://github-readme-stats.vercel.app">
-    <img width= "50%"src="https://github-readme-stats.vercel.app/api/top-langs?username=4gu1rr3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=true&order=2"/>
+    <img width= "45%"src="https://github-readme-stats.vercel.app/api/top-langs?username=4gu1rr3&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=true&order=2"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="46%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=4gu1rr3&theme=onedark&hide_border=true"/>
+        <img width="50%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=4gu1rr3&theme=onedark&hide_border=true"/>
     </a>
 </div>
 <hr>
