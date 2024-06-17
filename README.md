@@ -12,27 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>✨ Hi there, i'm Yasmin Aguirre ✨</h1>
+# ✨ Hi there, i'm Yasmin Aguirre ✨
+> <h3> • Computer science student at PUCRS and Undergraduate Research Assistant in the ARGOS research group<h3>
 
-<div>
+<img align="right" src="https://github.com/4gu1rr3/4gu1rr3/assets/50997939/cb87018b-5c09-488f-bd64-99fdf2e607c3" alt="Programmation" width="350"/>
 
-<img align="right" src="https://github.com/4gu1rr3/4gu1rr3/assets/50997939/cb87018b-5c09-488f-bd64-99fdf2e607c3" alt="Programmation" width="300"/>
-<h3> • Computer science student at PUCRS<h3>
-    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=crduqbolsz4nzehkogy4u5hn2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align= "left">
+    <img width= "40%"src="https://github-readme-stats.vercel.app/api/top-langs?username=4gu1rr3&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=true&order=2"/>
 </div>
-    
-<br/>
-
-<h2>Stats</h2>
-
-<div align= "center">
-    <img width= "45%"src="https://github-readme-stats.vercel.app/api/top-langs?username=4gu1rr3&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=true&order=2"/>
-    <img width="50%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=4gu1rr3&theme=onedark&hide_border=true"/>
-</div>
-<hr>
-
-![Captura de tela 2023-09-03 222928](https://github.com/4gu1rr3/4gu1rr3/assets/50997939/3c18723e-dab5-44aa-ae46-72e48aa14948)
-
+<br>
 <h3>✨ How to reach me: yasmin.cardozo@edu.pucrs.br</h3>
 
