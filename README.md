@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 # ✨ Hi there, i'm Yasmin Aguirre ✨
 > <h3> • Computer science student at PUCRS and Undergraduate Research Assistant in the ARGOS research group<h3>
 
-<img align="right" src="https://github.com/4gu1rr3/4gu1rr3/assets/50997939/cb87018b-5c09-488f-bd64-99fdf2e607c3" alt="Programmation" width="350"/>
+<img align="right" src="https://github.com/4gu1rr3/4gu1rr3/assets/50997939/cb87018b-5c09-488f-bd64-99fdf2e607c3" alt="fireee" width="350"/>
 
 <div align= "left">
-    <img width= "45%"src="https://github-readme-stats.vercel.app/api/top-langs?username=4gu1rr3&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=true&order=2"/>
+    <img width= "45%"src="https://github-readme-stats.vercel.app/api/top-langs?username=4gu1rr3&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nord&hide_border=true&order=2"/>
 </div>
 <br>
 <h3>✨ How to reach me: yasmin.cardozo@edu.pucrs.br</h3>
