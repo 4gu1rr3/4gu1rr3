@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
 # ✨ Hi there, i'm Yasmin Aguirre ✨
-> <h3>  Computer science student at PUCRS and Undergraduate Research Assistant in the ARGOS research group<h3>
+> <h3>  Computer science student at PUCRS and Undergraduate Research Assistant in the MALTA research group<h3>
   <img align="right" width= "30%" src="https://github.com/4gu1rr3/4gu1rr3/assets/50997939/5ae23ddd-262a-4d80-a72f-d689c5e04a1a"/>
 <div align= "left">
     <img width= "45%"src="https://github-readme-stats.vercel.app/api/top-langs?username=4gu1rr3&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=moltack&hide_border=true&order=2"/>
